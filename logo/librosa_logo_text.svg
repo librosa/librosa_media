@@ -9,16 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="64.921829mm"
+   width="151.60646mm"
    height="62.242058mm"
-   viewBox="0 0 64.921829 62.242058"
+   viewBox="0 0 151.60647 62.242058"
    version="1.1"
    id="svg60"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="librosa_logo.svg"
-   inkscape:export-filename="/home/bmcfee/git/librosa_media/logo/librosa_logo_rotated.png"
-   inkscape:export-xdpi="90.159363"
-   inkscape:export-ydpi="90.159363">
+   sodipodi:docname="librosa_logo_text.svg"
+   inkscape:export-filename="/home/bmcfee/git/librosa_media/logo/librosa_logo_simpler-text-rotated.png"
+   inkscape:export-xdpi="90.130859"
+   inkscape:export-ydpi="90.130859">
   <defs
      id="defs54">
     <inkscape:path-effect
@@ -72,11 +72,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="96.931375"
-     inkscape:cy="127.30216"
+     inkscape:zoom="1.979899"
+     inkscape:cx="274.83623"
+     inkscape:cy="153.74955"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -101,15 +101,15 @@
        spacingy="1"
        gridanglex="30"
        gridanglez="30"
-       originx="-28.86053"
-       originy="-28.652806" />
+       originx="-30.27562"
+       originy="-28.525277" />
     <sodipodi:guide
-       position="31.761245,31.347192"
+       position="30.346162,31.474726"
        orientation="0,1"
        id="guide68"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="30.895219,31.347192"
+       position="29.480136,31.474726"
        orientation="1,0"
        id="guide149"
        inkscape:locked="false" />
@@ -130,10 +130,24 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-28.860532,-206.10515)">
+     transform="translate(-30.275617,-206.23268)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.75px;line-height:1.25;font-family:Quicksand;-inkscape-font-specification:Quicksand;letter-spacing:0px;word-spacing:0px;fill:#4d02a2;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="184.20752"
+       y="248.93089"
+       id="text832"><tspan
+         sodipodi:role="line"
+         id="tspan830"
+         x="182.62001"
+         y="248.93089"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.75px;font-family:'Nova Slim';-inkscape-font-specification:'Nova Slim';text-align:end;letter-spacing:-1.58749998px;text-anchor:end;fill:#4d02a2;stroke-width:0.26458332"
+         dx="0">lib<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nova Slim';-inkscape-font-specification:'Nova Slim';text-align:end;letter-spacing:-1.58749998px;text-anchor:end;fill:#aa2396;stroke-width:0.26458332"
+   id="tspan834">rosa</tspan></tspan></text>
     <g
        id="g48"
-       transform="rotate(25.089113,61.321447,237.22618)">
+       transform="rotate(25.089113,61.74242,240.46976)">
       <path
          inkscape:connector-curvature="0"
          id="path133"
